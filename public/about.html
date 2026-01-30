@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+            color: #2d3748;
+        }
+        .profile-img {
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            border: 3px solid #3182ce;
+            margin-bottom: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        h2 { margin: 10px 0 5px 0; color: #1a202c; font-size: 22px; }
+        .bio { font-size: 14px; color: #4a5568; margin-bottom: 20px; line-height: 1.5; }
+        
+        .coffee-text {
+            font-size: 13px;
+            color: #718096;
+            margin-bottom: 8px;
+            font-style: italic;
+        }
+
+        .btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 12px;
+            margin: 8px auto;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 14px;
+            transition: transform 0.2s;
+            max-width: 260px;
+        }
+        .btn:active { transform: scale(0.95); }
+
+        .btn-github {
+            background-color: #24292e;
+            color: white;
+        }
+        .btn-coffee {
+            background-color: #FFDD00;
+            color: #000000;
+            border: 1px solid #e2e8f0;
+        }
+        .btn img {
+            width: 20px;
+            margin-right: 12px;
+        }
+        .footer {
+            margin-top: 25px;
+            font-size: 11px;
+            color: #a0aec0;
+            letter-spacing: 1px;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="https://github.com/rashgunathilake.png" class="profile-img" alt="Rash">
+    
+    <h2>Rash Gunathilake</h2>
+    <p class="bio">I'm a passionate developer dedicated to creating clean and functional Android applications.</p>
+
+    <a href="https://github.com/rashgunathilake" class="btn btn-github">
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="filter: invert(1);">
+        Follow on GitHub
+    </a>
+
+    <div style="margin-top: 25px;">
+        <p class="coffee-text">If you like what I do, maybe consider buying me a coffee! ☕</p>
+        <a href="https://www.buymeacoffee.com/rashGunathilake" class="btn btn-coffee">
+            <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg">
+            Buy me a coffee
+        </a>
+    </div>
+
+    <div class="footer">
+        PRODUCT WALLET • VERSION 1.0
+    </div>
+
+</body>
+</html>
