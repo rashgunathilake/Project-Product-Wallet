@@ -1,6 +1,6 @@
 # 📦 Product Wallet -  Your Digital Inventory Companion!
 
-**Product Wallet** යනු ඔබ සතු භාණ්ඩවල විස්තර ඉතාමත් පිරිසිදු සහ සරල අතුරු මුහුණතක් හරහා කළමනාකරණය කිරීමට Rash Gunathilake විසින් නිපදවන ලද Android යෙදුමකි. 
+**Product Wallet** යනු ඔබ සතු භාණ්ඩවල විස්තර ඉතාමත් පිරිසිදු සහ සරල අතුරු මුහුණතක් හරහා කළමනාකරණය කිරීමට නිපදවන ලද Android යෙදුමකි. 
 
 <p align="center">
   <img src="icon.png" width="150" title="App Icon">
