@@ -1,32 +1,48 @@
-# 📦 Product Wallet
+# 📦 Product Wallet -  Your Digital Inventory Companion!
 
-**Product Wallet** යනු ඔබ සතු භාණ්ඩවල විස්තර ඉතාමත් පිරිසිදු සහ සරල අතුරු මුහුණතක් හරහා කළමනාකරණය කිරීමට නිපදවන ලද Android යෙදුමකි. 
+**Product Wallet** යනු ඔබ සතු භාණ්ඩවල විස්තර ඉතාමත් පිරිසිදු සහ සරල අතුරු මුහුණතක් හරහා කළමනාකරණය කිරීමට Rash Gunathilake විසින් නිපදවන ලද Android යෙදුමකි. 
 
-![App Icon](https://via.placeholder.com/150) ## ✨ Features
+<p align="center">
+  <img src="icon.jpeg" width="150" title="App Icon">
+</p>
 
-- **Store Product Details:** නම, කේතය (Code), මිල සහ විස්තර සේව් කර තබා ගත හැක.
-- **Image Storage:** භාණ්ඩයේ පින්තූරයක් ඇතුළත් කිරීමේ හැකියාව සහ පින්තූරය පද්ධතිය තුළම කළමනාකරණය (Update/Delete).
-- **SQLite Database:** දත්ත සියල්ල ආරක්ෂිතව Local Database එකක සේව් වේ.
-- **BottomSheet UI:** දත්ත ඇතුළත් කිරීමට සහ සංස්කරණය කිරීමට නවීන BottomSheet භාවිත කර ඇත.
-- **Material Design:** ඇන්ඩ්‍රොයිඩ් පද්ධතියට ගැළපෙන ආකර්ෂණීය නිමාව.
+## ✨ විශේෂාංග (Features)
 
-## 🛠️ Built With
+- **Store Product Details:** භාණ්ඩයේ නම, කේතය (Code), මිල සහ විස්තර ඉතා පහසුවෙන් ගබඩා කර තබා ගත හැක.
+- **Image Support:** සෑම භාණ්ඩයකටම පින්තූරයක් ඇතුළත් කළ හැකි අතර, එය පද්ධතිය තුළම යාවත්කාලීන (Update) කිරීමට හෝ මැකීමට (Delete) හැකියාව ඇත.
+- **SQLite Database:** ඔබගේ දත්ත සියල්ල ඔබගේ දුරකථනය තුළම ඇති Local Database එකක ආරක්ෂිතව ගබඩා වේ.
+- **Modern UI:** දත්ත ඇතුළත් කිරීමට සහ සංස්කරණය කිරීමට නවීන **BottomSheet** සහ **Material Design** සංකල්ප භාවිතා කර ඇත.
+- **Fully Offline:** අන්තර්ජාල පහසුකම් නොමැතිව වුවද සම්පූර්ණ ඇප් එක භාවිතා කළ හැක.
 
-- **Java** - Core language
-- **SQLite** - Local data storage
-- **Material Components** - UI/UX design
+## 🛠️ තාක්ෂණික මෙවලම් (Built With)
+
+- **Java** - Core Programming Language
+- **SQLite** - Local Data Storage
+- **Material Components** - Professional UI Design
 
 ## 📸 Screenshots
 
-| Home Screen | Add Product | Edit Details |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400) | ![Add](https://via.placeholder.com/200x400) | ![Edit](https://via.placeholder.com/200x400) |
+<p align="center">
+  <img src="ss1.jpeg" width="250">
+  <img src="ss2.jpeg" width="250">
+  <img src="ss3.jpeg" width="250">
+</p>
 
-## 🚀 How to Install
+## 🚀 ස්ථාපනය කරගන්නා ආකාරය (How to Install)
 
-1. Go to the [Releases](your-link-here) section.
-2. Download the latest `.apk` file.
-3. Open the file on your Android device and install (Enable 'Install from Unknown Sources' if prompted).
+1. මෙම Repo එකේ ඇති **Releases** කොටසට යන්න.
+2. නවතම `.apk` ගොනුව බාගත (Download) කරගන්න.
+3. ඔබගේ දුරකථනයේ ඇති ගොනුව විවෘත කර ස්ථාපනය (Install) කරන්න. (අවශ්‍ය නම් 'Install from Unknown Sources' ලබා දෙන්න).
 
 ---
-Developed by [Your Name]
+**Developed by [Rash Gunathilake](https://github.com/rashgunathilake) - © 2026**
+
+<div align="center">
+
+### ❤️ Support My Work
+
+If you like what I do, maybe consider buying me a coffee! ☕
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rashGunathilake)
+
+</div>
