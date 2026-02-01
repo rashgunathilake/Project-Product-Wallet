@@ -30,9 +30,13 @@
 
 ## 🚀 ස්ථාපනය කරගන්නා ආකාරය (How to Install)
 
-1. මෙම Repo එකේ ඇති [Releases](මෙතනට_ඔයාගේ_RELEASE_LINK_එක_Paste_කරන්න) කොටසට යන්න.
-2. එහි ඇති නවතම **Product-Wallet-v1.0.apk** වැනි ගොනුව බාගත (Download) කරගන්න.
-3. ඔබගේ දුරකථනයේ ඇති ගොනුව විවෘත කර ස්ථාපනය (Install) කරන්න.
+පහත බොත්තම හරහා ඇප් එකේ නවතම සංස්කරණය (APK) සෘජුවම බාගත කරගත හැක:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android)](https://github.com/rashgunathilake/Project-Product-Wallet/releases/download/v1.0.0/app-release.apk)
+
+1. ඉහත **Download APK** බොත්තම ක්ලික් කරන්න.
+2. බාගත කරගත් `.apk` ගොනුව විවෘත කරන්න.
+3. අවශ්‍ය නම් 'Install from Unknown Sources' ලබා දී ස්ථාපනය අවසන් කරන්න.
 
 ---
 **Developed by [Rash Gunathilake](https://github.com/rashgunathilake) - © 2026**
