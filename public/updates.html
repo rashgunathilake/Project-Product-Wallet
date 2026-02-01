@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 10px;
+            background-color: #F7FAFC; /* Light gray background */
+            display: flex;
+            align-items: center;
+        }
+        .container {
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: white;
+            padding: 12px 15px;
+            border-radius: 10px;
+            border: 1px solid #E2E8F0;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .info {
+            display: flex;
+            flex-direction: column;
+        }
+        .version-label {
+            font-size: 11px;
+            color: #718096;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .version-number {
+            font-size: 14px;
+            font-weight: 600;
+            color: #2D3748;
+        }
+        .status-dot {
+            height: 8px;
+            width: 8px;
+            background-color: #48BB78; /* Green color for up-to-date */
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 5px;
+        }
+        .update-btn {
+            background-color: #3182CE;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 12px;
+            font-weight: 600;
+            transition: 0.2s;
+        }
+        /* අලුත් Update එකක් නැති වෙලාවට පෙන්වන style එක */
+        .up-to-date {
+            font-size: 12px;
+            color: #48BB78;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="info">
+            <span class="version-label">Current Status</span>
+            <span class="version-number">
+                <span class="status-dot"></span> v1.0.0
+            </span>
+        </div>
+
+        <span class="up-to-date">Latest Version</span>
+    </div>
+
+</body>
+</html>
