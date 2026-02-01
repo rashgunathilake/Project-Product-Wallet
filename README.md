@@ -30,9 +30,9 @@
 
 ## 🚀 ස්ථාපනය කරගන්නා ආකාරය (How to Install)
 
-1. මෙම Repo එකේ ඇති **Releases** කොටසට යන්න.
-2. නවතම `.apk` ගොනුව බාගත (Download) කරගන්න.
-3. ඔබගේ දුරකථනයේ ඇති ගොනුව විවෘත කර ස්ථාපනය (Install) කරන්න. (අවශ්‍ය නම් 'Install from Unknown Sources' ලබා දෙන්න).
+1. මෙම Repo එකේ ඇති [Releases](මෙතනට_ඔයාගේ_RELEASE_LINK_එක_Paste_කරන්න) කොටසට යන්න.
+2. එහි ඇති නවතම **Product-Wallet-v1.0.apk** වැනි ගොනුව බාගත (Download) කරගන්න.
+3. ඔබගේ දුරකථනයේ ඇති ගොනුව විවෘත කර ස්ථාපනය (Install) කරන්න.
 
 ---
 **Developed by [Rash Gunathilake](https://github.com/rashgunathilake) - © 2026**
