@@ -3,7 +3,7 @@
 **Product Wallet** යනු ඔබ සතු භාණ්ඩවල විස්තර ඉතාමත් පිරිසිදු සහ සරල අතුරු මුහුණතක් හරහා කළමනාකරණය කිරීමට Rash Gunathilake විසින් නිපදවන ලද Android යෙදුමකි. 
 
 <p align="center">
-  <img src="icon.jpeg" width="150" title="App Icon">
+  <img src="icon.png" width="150" title="App Icon">
 </p>
 
 ## ✨ විශේෂාංග (Features)
